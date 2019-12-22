@@ -1,0 +1,6 @@
+.gitignore
+.idea/
+MacScan.iml
+src/main/java/my/demo/
+out/
+target/
